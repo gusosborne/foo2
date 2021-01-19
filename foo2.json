@@ -2,7 +2,7 @@
   "body": {
     "background": {
       "type": "html",
-      "url": "https://foosacklys.net/oc-location/",
+      "url": "http://foosacklys.net/oc-location/",
       "action": {
         "type": "$default"
       }
